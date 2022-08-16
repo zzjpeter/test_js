@@ -10,6 +10,7 @@
             "request": "launch",
             "args": [
                 "${relativeFile}"
+                //"${workspaceRoot}/src/demo.ts"
             ],
             "runtimeArgs": [
                 "-r",
